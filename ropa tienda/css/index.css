@@ -1,0 +1,108 @@
+*{
+    background-color: rgba(187, 187, 189, 0.897);
+    justify-content: center;
+   }
+
+   .padre{
+    color: white;
+    display: flex;
+    align-items: end;
+    gap: 40px;
+   }
+
+
+
+   .hijo{
+       width: 25%;
+       height: 470px;
+       background-color: white;
+       display: flex;
+       flex-direction: column;
+       justify-content: start;
+       align-items: center; 
+   }
+
+   .hijod{
+       width: 25%;
+       height: 470px;
+       background-color: white;
+       align-self: flex-end;
+       display: flex;
+       flex-direction: column;
+       justify-content: start;
+       align-items: center;
+   }
+
+   .pEmojis{
+       background-color: white;
+       justify-content: center;
+      font-size: 26px;
+   }
+
+   .tituloAmarillo{
+       background-color: white;
+       color: rgb(15, 15, 15);
+       margin-top: -20px;
+   } 
+
+   .precio{
+       background-color: white;
+       color: rgb(13, 13, 14);
+       font-size: 20px;
+       margin-top: -10px; 
+   }
+
+   .texto{
+       background-color: white;
+       color: black;
+   }
+   
+   .pEmojis2{
+       background-color: white;
+       justify-content: center;
+      font-size: 15px;
+      margin-top: 20px;
+   }
+
+   .tituloAmarillo2{
+       background-color: rgb(255, 255, 255);
+       color: rgb(0, 0, 0);
+       margin-top: -15px;
+   } 
+
+   .precio2{
+       background-color: white;
+       color: rgb(0, 0, 0);
+       font-size: 20px;
+       margin-top: -10px; 
+   }
+
+   .texto2{
+       background-color: white;
+       color: black;
+       margin-top: -15px;
+       width: 65%;
+   }
+
+   .etia{
+       background-color: white;
+       color: blue;
+   }
+
+   .etia2{
+       background-color: rgb(25, 17, 144);
+       color: rgb(255, 255, 255);
+       width: 100px;
+       height: 23px;
+       text-align: center;
+       padding-top: 3px;
+   }
+
+   .colorfondo{
+    background-color: white;
+    color: black;
+   }
+
+   a {
+       text-decoration: none;
+     }
